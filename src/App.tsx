@@ -1,7 +1,9 @@
+import Body from "./components/Body";
+
 function App() {
   return (
     <div>
-      <h1>Create React application is working</h1>
+      <Body />
     </div>
   );
 }

@@ -2,3 +2,4 @@
 
 - Created React application
 - Configure Tailwind CSS
+- AppRouter initiated
